@@ -6,7 +6,7 @@ public class BehaviourChanger : MonoBehaviour
     [SerializeField] private GameObject cube;
     void Start()
     {
-        Debug.Log($"Hello cube!");
+        Debug.Log($"Hello World!");
     }
 
     void Update()
